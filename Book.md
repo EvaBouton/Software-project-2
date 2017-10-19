@@ -2,4 +2,6 @@
 Software project 2
 
 Class book {
+
+return 0;
 }
